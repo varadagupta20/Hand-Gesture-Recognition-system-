@@ -1,4 +1,4 @@
-# Hand-Gesture-Recognition-System-
+# Hand-Gesture-Recognition-System
 This project focuses on hand gesture recognition using computer vision to enhance driving safety. The system detects hand gestures on a steering wheel to determine the appropriate driving mode, ensuring that the car responds according to the detected hand positions. The trained model uses an XML file capturing four types of hand gestures.
 
 ## Features
