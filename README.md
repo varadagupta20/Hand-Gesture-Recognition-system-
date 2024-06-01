@@ -4,11 +4,15 @@ This project focuses on hand gesture recognition using computer vision to enhanc
 ## Features
 
 No Hands on Steering Wheel: If no hands are detected on the steering wheel, the car's brakes are applied slowly.
+
 One Hand on Steering Wheel: If one hand is detected, the car can be driven up to a certain speed limit for safety purposes.
+
 Both Hands on Steering Wheel: If both hands are detected, the driver can drive at any speed, as this is considered the safest mode.
 
 ### Prerequisites
 Python 3.x
+
 OpenCV
+
 NumPy
 
